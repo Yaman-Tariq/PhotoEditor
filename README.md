@@ -23,5 +23,7 @@ This photo-editor will take ".PNG" files and perform the following filters on th
 5)**Brigthness**: This changes the brightness of the image by either making it brighter or dimmer. Mathematically, this works by equally increasing the Red Blue and Green values of an image.
 
 
+# Inspirations and Resources
+This whole project takes inspiration from, and then expands upon, Harvard's CS50 problem set 4 "FILTER". The details for that project: https://cs50.harvard.edu/x/2023/psets/4/filter/more/.
 
 
